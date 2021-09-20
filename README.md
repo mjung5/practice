@@ -1,3 +1,2 @@
-# covid-api-vignette
+# practice
 Project1 for creating vignette
-practice
